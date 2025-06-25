@@ -1,0 +1,51 @@
+{
+  "makcu_connected": false,
+  "target_color": "purple",
+  "box_size": 100,
+  "color_ranges": {
+    "purple": {
+      "lower": [
+        140,
+        60,
+        100
+      ],
+      "upper": [
+        160,
+        255,
+        255
+      ]
+    },
+    "yellow": {
+      "lower": [
+        30,
+        125,
+        150
+      ],
+      "upper": [
+        35,
+        255,
+        255
+      ]
+    }
+  },
+  "aim_offset_y": 0,
+  "mode": "bezier",
+  "mouse_button": 0,
+  "body_height": 30,
+  "body_width": 15,
+  "debug": true,
+  "normal_min_speed": 4,
+  "normal_max_speed": 100,
+  "bezier_segments": 5,
+  "bezier_ctrl_x": 20,
+  "bezier_ctrl_y": 20,
+  "silent_segments": 5,
+  "silent_ctrl_x": 20,
+  "silent_ctrl_y": 20,
+  "silent_speed": 5,
+  "silent_cooldown": 0.18,
+  "windmouse_gravity": 9.0,
+  "windmouse_wind": 3.0,
+  "windmouse_min_step": 2.0,
+  "windmouse_max_step": 10.0
+}
